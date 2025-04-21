@@ -1,6 +1,4 @@
 # Python-tasks
-Basic Python tasks.
-# Python Tasks
 
 This repository contains two beginner-level Python programs that demonstrate basic input/output, conditional statements, and string manipulation.
 
